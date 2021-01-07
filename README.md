@@ -1,17 +1,13 @@
 # Hi there 👋,  I am Yagnesh
 I'm a self-taught Web Developer from Ontario, Canada. I enjoy developing exciting and user interactive Web projects.
 
-## Skills:  
-* ⚛REACT 
-* 👨‍💻NodeJS/ MongoDB / ExpressJS/ Mongoose
-* 💻 HTML / CSS /JS
-
 ## Top Technologies:
 * ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-* [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
-<!-- TODO: Make technologies links takes you to repositories -->
+* ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+* ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+* ![HTML Badge](https://img.shields.io/badge/-HTML-DD4B25?style=for-the-badge&labelColor=black&logo=html&logoColor=DD4B25)
+* ![CSS3 Badge](https://img.shields.io/badge/-Css3-28AD8?style=for-the-badge&labelColor=black&logo=css3&logoColor=28A4D8)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YagneshP&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
