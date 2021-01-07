@@ -2,9 +2,9 @@
 I'm a self-taught Web Developer from Ontario, Canada. I enjoy developing exciting and user interactive Web projects. Have a question or want to work together? Kindly contact me.
 
 ## Skills:  
-*⚛REACT 
-*👨‍💻NodeJS/ MongoDB / ExpressJS/ Mongoose
-*💻 HTML / CSS /JS
+* ⚛REACT 
+* 👨‍💻NodeJS/ MongoDB / ExpressJS/ Mongoose
+* 💻 HTML / CSS /JS
 
 
 
