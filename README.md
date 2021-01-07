@@ -5,7 +5,7 @@ I'm a self-taught Web Developer from Ontario, Canada. I enjoy developing excitin
 * ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 * ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 * ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-* ![Html5 Badge](https://img.shields.io/badge/-Html5-DD4B25?style=for-the-badge&labelColor=black&logo=html&logoColor=DD4B25)
+* ![Html5 Badge](https://img.shields.io/badge/-Html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25)
 * ![CSS3 Badge](https://img.shields.io/badge/-Css3-28AD8?style=for-the-badge&labelColor=black&logo=css3&logoColor=28A4D8)
 
 
