@@ -1,4 +1,4 @@
-# Hi there 👋,  I am Yagnesh
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">,  I am Yagnesh
 I'm a self-taught Web Developer from Ontario, Canada. I enjoy developing exciting and user interactive Web projects.
 
 ## Top Technologies:
