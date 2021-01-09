@@ -3,6 +3,7 @@ I'm a self-taught Web Developer from Ontario, Canada. I enjoy developing excitin
 
 ## Top Technologies:
 * ![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+* ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)
 * ![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 * ![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 * ![Html5 Badge](https://img.shields.io/badge/-Html5-DD4B25?style=for-the-badge&labelColor=black&logo=html5&logoColor=DD4B25)
