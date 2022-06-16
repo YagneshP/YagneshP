@@ -1,4 +1,4 @@
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="20px" alt="hi">, I am Yagnesh
+# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="32"  alt="hi">, I am Yagnesh
 
 Self-motivated and Enthusiastic Full Stack Developer transitioned from CNC Machinist/Programmer within the manufacturing sector. I always had a passion for web development and was keen on making applications and self-learning on my own through open sources like Freedcodecamp. Through this love, I completed my Full Stack Web Development Diploma through Lighthouse Labs. I care about the user experience and enjoy creating applications that are functional and user-friendly to assist customers' daily lives.
 
